@@ -1,0 +1,33 @@
+
+body {
+    background-color: #343b40;
+}
+
+#sv{
+    text-align: center;
+    color: white;
+}
+#main {
+     float: right;
+}
+#Newarray{
+    float: left;
+}
+.divclass{
+
+   background-color: rgb(157, 230, 12)
+   ;
+   margin: 1px;
+   width: 6px;
+ 
+    
+}
+#dnav{
+    display: flex;
+    position: relative;
+  justify-content: center;
+  top: 80px;
+
+  
+    
+}
